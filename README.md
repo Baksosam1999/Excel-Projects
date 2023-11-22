@@ -2,7 +2,7 @@
 
 Project Overview
 
-This project aims to create a Coffee Sales Dashboard with Excel to provide dynamic and interactive insights into coffee sales data. The process involves data gathering, transformation, and the utilization of pivot tables and charts. Key features include a timeline for sales over time, slicers for coffee type, roast type, and customer loyalty card, as well as visualizations for sales by country and top 5 customers.
+This project aims to create a Coffee Sales Dashboard with Excel to provide dynamic and interactive insights into coffee sales data. The process involves data gathering, transformation, and the utilization of pivot tables and charts. Key features include a timeline for sales over time, slicers for coffee type, roast type, and customer loyalty card, as well as visualizations for sales by country, sales by product and top 5 customers.
 
 ## Data Gathering and Transformation
 
@@ -19,11 +19,11 @@ This project aims to create a Coffee Sales Dashboard with Excel to provide dynam
 
 1. **Pivot Tables:**
    - Created pivot tables based on the transformed data.
-   - Organized fields like Order Date, Coffee Type, Roast Type, Loyalty Status, Country, Customer Name, and Sales Amount.
+   - Organized fields like Years, Order Date, Coffee Type name, Country, Customer Name, and Sum Of Sales Amount.
 
 2. **Pivot Charts:**
    - Developed pivot charts corresponding to the pivot tables.
-   - Included a bar chart for sales by country, a bar chart for the top 5 customers, and a line chart for total sales over time.
+   - Included a bar chart for sales by country, a bar chart for the top 5 customers, a bar chart for sales by product and a line chart for total sales over time.
 
 ## Interactive Elements
 
@@ -39,7 +39,6 @@ This project aims to create a Coffee Sales Dashboard with Excel to provide dynam
 
 1. **Sales by Country Bar Chart:**
    - Implemented a bar chart to visualize sales by country.
-   - Highlighted the country with the most sales using conditional formatting.
 
 2. **Top 5 Customers Bar Chart:**
    - Created a bar chart showcasing the top 5 customers based on sales.
@@ -51,10 +50,11 @@ This project aims to create a Coffee Sales Dashboard with Excel to provide dynam
 ## Layout and Design
 
 1. **Dashboard Layout:**
-   - Organized pivot tables, charts, timeline, and slicers on a single sheet.
+   - Organized pivot tables of the key metrics for visualization on different sheets.
+   - Organized pivot charts, timeline, and slicers on a single sheet.
    - Created a user-friendly layout for smooth navigation.
 
-2. **Design Elements:**
+3. **Design Elements:**
    - Selected a coffee-themed color scheme for aesthetic appeal.
    - Added titles, labels, and legends to enhance clarity.
 
