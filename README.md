@@ -77,7 +77,23 @@ EDA involved exploring the data to answer key questions, such as:
 - The first six months consistently exhibit peak sales over the past three years. This recurring pattern suggests a seasonal trend or marketing effectiveness during this period.
 - The United States is identified as a top buyer based on the sales by country visualization. This information is crucial for understanding market preferences and targeting specific regions for marketing strategies.
 
+## RECOMMENDATIONS
+Based on the insights and findings from the data analysis, the following recommendations were made:
 
+-Invest in Excelsa Coffee Marketing:
+Since Excelsa coffee type is identified as the top seller, allocate additional resources towards marketing and promoting this particular product. Highlight its unique features and qualities to attract more customers.
+
+-Seasonal Promotions:
+Given the recurring pattern of peak sales in the first six months, consider implementing seasonal promotions or marketing campaigns during this period. Leverage the observed trend to maximize sales during the months when customers show increased interest.
+
+-Optimize Supply Chain for Peak Periods:
+Since the first six months consistently exhibit peak sales, optimize the supply chain to ensure sufficient inventory during these months. This can prevent stockouts and help meet the increased demand effectively.
+
+-Targeted Marketing in the United States:
+Given that the United States is identified as a top buyer, focus targeted marketing efforts in this region. Understand the preferences and behaviors of U.S. customers to tailor marketing strategies that resonate with the local market.
+
+-Customer Engagement and Loyalty Programs:
+Implement customer engagement initiatives and loyalty programs to strengthen the relationship with existing customers. This could include exclusive offers, discounts, or rewards for repeat purchases.
 
 The Coffee Sales Excel Dashboard is designed to provide a comprehensive and interactive overview of coffee sales data, allowing users to analyze trends and make informed decisions.
 
