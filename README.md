@@ -1,8 +1,8 @@
-## Coffee Sales Dashboard
+## BUSINESS ANALYSIS INVOLVING TIME SERIES AND SALES ANALYSIS OF COFFEE SALES DATA
 
-Project Overview
+## INTRODUCTION
 
-This project aims to create a Coffee Sales Dashboard with Excel to provide dynamic and interactive insights into coffee sales data. The process involves data gathering, transformation, and the utilization of pivot tables and charts. Key features include a timeline for sales over time, slicers for coffee type, roast type, and customer loyalty card, as well as visualizations for sales by country, sales by product and top 5 customers.
+The analysis involved a time series analysis of coffee sales data, focusing on key performance indicators. It aims to identify trends and seasonal patterns through the application of time intelligence analysis and time-based comparison analysis. The process involves data gathering, transformation, and the utilization of pivot tables and charts. Key features include a timeline for sales over time, slicers for coffee type, roast type, and customer loyalty card, as well as visualizations for sales by country, sales by product and top 5 customers.
 
 ## Data Gathering and Transformation
 
